@@ -14,7 +14,7 @@ font: 300 88px/1.5 Pacifico, Arial, sans-serif;
 }
 
 h1 {
-   position: fixed;
+ 
   top: 50%;
   left: 50%;
   margin-top: -55px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 #sleep {
-	 position: fixed;
+	
   font: 300 90px/1.5 Pacifico, Helvetica, sans-serif;
   color: #black;
   text-shadow: 5px 5px 5px rgba(216,216,229,0.9), 7px 7px 0px rgba(0,0,0,0.05);
