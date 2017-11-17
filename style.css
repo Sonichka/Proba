@@ -2,12 +2,12 @@
   font-family: 'Pacifico';
   font-style: normal;
   font-weight: 400;
-  src: url('./Pacifico.ttf');
+  src: url('http://fonts.googleapis.com/css?family=Pacifico');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
 #morning { 
-font: 300 88px/1.5 Pacifico, Helvetica, sans-serif;
+font: 300 88px/1.5 Pacifico, Arial, sans-serif;
   color: #F60E0E;
   text-shadow: 5px 5px 5px rgba(0,0,0,0.9), 7px 7px 0px rgba(0,0,0,0.05);
 
